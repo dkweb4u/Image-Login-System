@@ -1,0 +1,36 @@
+Installation:
+
+Step 1: Download demo file
+
+Step 2: Unzip and paste in any server like (Xammp,Lamp) inside "C:\xampp\htdocs" 
+
+Step 3: Run Server
+
+Step 4: Open project in Browser like (http://localhost/newlogin);
+
+Step 5:  Password file: inside folder "key.png" 
+
+Step 6: Try Your Self
+
+====================================================================================
+
+Note: (Finall Stage *)
+1. temphtaccess file name change to .htaccess 
+
+2. Inside htaccess file update your url path from htaccess file
+
+For Security Perpose...
+
+=======================================================================================
+
+For More Information:
+
+Website: https://ddk.netlify.app/
+
+Email: dineshweb4u@gmail.com
+
+
+
+
+           
+
